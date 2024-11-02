@@ -6,7 +6,4 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32px" width="5px"> Hi, I am Maxime Durival 👨‍💻
 
-I am currently in third year of EPITA
-
-### 🔭 Have a look at my [website](https://adnanazmee.me/).
-
+🔭 I am currently in third year of EPITA
